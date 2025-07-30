@@ -47,7 +47,11 @@ A third system in the works — designed to bridge the gap between symbolic AI l
 - 🚀 L.L.O.Y.D. public release *(coming soon)*  
 - 🐦 Twitter: [@putmanmodel](https://twitter.com/putmanmodel)  
 - 💬 Reddit: u/putmanmodel discussions  
-- 📝 Medium: In-depth writeups *(up next)*
+
+## 🧠 Theory & Writing
+
+- [Waste Theory: Symbolic Residue, Dream Logic, and the Loops That Haunt Us](https://medium.com/@sputman_15341/waste-theory-symbolic-residue-dream-logic-and-the-loops-that-haunt-us-ce59f9f52deb)
+- [Resonant Field Mapping: Giving Digital Worlds a Soul](https://medium.com/@sputman_15341/resonant-field-mapping-giving-digital-worlds-a-soul-d9cec3652175)
 
 ---
 
