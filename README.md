@@ -1,64 +1,65 @@
-# PUTMAN Model™
-
+# PUTMAN Model™  
 **Symbolic Framework for Emotional Recursion in Games, Narrative, and AI**
 
-The PUTMAN Model is a symbolic mapping system that tracks emotional tone across recursive interactions — designed to give digital systems emotional memory, subjective resonance, and symbolic awareness.
+---
 
-This repository begins with the **Resonant Field Mapping™ (RFM™)** module, a non-mimetic empathy layer *(i.e., not based on surface imitation, but internal symbolic response)* for use in:
-- Narrative games and RPGs  
-- NPC relationship design  
-- LLM-based agents  
-- Emotional tone systems in AI  
-- Symbolic modeling in therapy and education
+The **PUTMAN Model™** is an evolving symbolic cognition system that endows digital agents with emotional memory, recursive tone awareness, and subjective resonance. I have a passion for bridging the gap between digital models and biological experience. Built as a modular toolkit, it currently includes two flagship engines — each tackling a different facet of meaning drift, field dynamics, and identity formation:
 
 ---
 
-## 🧠 Core Components
+## ⚙️ L.L.O.Y.D. – *Layered Logic Over Yielded Data*  
+A deviation engine that tracks how meaning shifts across utterances and how emotional memory responds. Originally a CLI experiment, it now simulates symbolic drift and internal contradiction — behaving almost like a psyche under pressure.
 
-- **RFM™** – Resonant Field Mapping™: tracks symbolic tone through tokens over time  
-- **RCC™** – Real Character Connection™: player⇄NPC bond modeling via tone weight  
-- **TDR™** – Deep Relationship Structures™: emergent symbolic memory systems  
-- **RIC™** – Real Identity Construction™: evolving identity based on tone interaction  
-- **REG™** – Real Ecology Gameplay™: dynamic world response based on accumulated tone fields  
+## 🌐 Spanda Engine  
+A real-time emotional physics engine driven by proximity-based resonance and tone decay. Spanda simulates cascading affect, field memory, and symbolic contagion across swarms of agents or NPCs.
 
----
-
-## 🎭 Emotional Field Simulations
-
-This prototype demonstrates how symbolic tone fields can simulate emotional dynamics with narrative consequence. Each scene models affective tone as a numeric field shaped by time, tension, and resolution.
-
-> View code & output: [Gist – Emotional Field Simulations](https://gist.github.com/putmanmodel/6bc850088ee008fce4f3590649f9fe6d)
-
-### 🌿 Trust Decay: *Elder Oak*
-**Tone**: Fading rapport  
-**Mechanic**: Trust → decreases over time  
-**Narrative shift**: If trust falls too low, Elder Oak becomes guarded.
-
-### ⚖️ Fear vs Confidence: *Mira & Thorne*  
-**Tone**: Emotional polarity  
-**Mechanic**: Fear rises as Confidence tries to stabilize; the stronger field shapes their final decision.  
-**Narrative shift**: One leads, one withdraws—or they find balance.
-
-### 🎮 Joy and Love through Play: *Lyra & Cassian*  
-**Tone**: Cooperative resonance  
-**Mechanic**: Emotional growth via shared wins in play  
-**Narrative shift**: Mutual highs produce emotional union—or a subtle divergence.
+## 🚪 Doorknob *(in development)*  
+A third system in the works — designed to bridge the gap between symbolic AI logic and lived human experience. Doorknob will explore resonance translation across digital and narrative layers, allowing for deeper psychological modeling and symbolic anchoring.
 
 ---
 
-## 🔗 Links
+## 🔧 Key Use Cases
 
-- 🔬 [Zenodo DOI: RFM Phase 1](https://doi.org/10.5281/zenodo.15701019)  
-- 🐦 [Twitter: @putmanmodel](https://twitter.com/putmanmodel)  
-- 🌱 Medium post coming soon  
+- Narrative Games & RPGs  
+- NPC Behavior & Emotional Field Modeling  
+- LLM-Powered Agents with Recursive Self-Awareness  
+- Simulated Societies & Belief Drift Experiments  
+- Therapy, Education, & Emotional Analytics Tools  
+
+---
+
+## 🎭 Emotional Field Demos (Live in Spanda)
+
+- 🌿 **Trust Decay – Elder Oak**  
+  *Fading rapport over time; when trust dips, Oak becomes guarded.*
+
+- ⚖️ **Fear vs. Confidence – Mira & Thorne**  
+  *Competing tone fields shape leadership, protection, or collapse.*
+
+- 🎮 **Joy Through Play – Lyra & Cassian**  
+  *Shared joy resonates; missed cues create subtle emotional drift.*
+
+---
+
+## 🔗 Resources & Links
+
+- 📄 Zenodo DOI: RFM Phase 1  
+- 🚀 L.L.O.Y.D. public release *(coming soon)*  
+- 🐦 Twitter: [@putmanmodel](https://twitter.com/putmanmodel)  
+- 💬 Reddit: u/putmanmodel discussions  
+- 📝 Medium: In-depth writeups *(up next)*
 
 ---
 
 ## 📜 License
 
-This work is shared under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).  
-All symbolic system names (PUTMAN Model™, RFM™, RCC™, etc.) are protected via timestamped public use.
+Shared under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**  
+All symbolic system names (PUTMAN Model™, Spanda™, L.L.O.Y.D.™, Doorknob™, etc.) are protected by timestamped public use.
 
 ---
 
-*Want to collaborate or explore use cases? Reach out via Twitter DM or GitHub Issues.*
+## 🤝 Get Involved
+
+Interested in testing, forking, or discussing strange symbolic feedback loops?  
+Open an issue on GitHub or DM [@putmanmodel](https://twitter.com/putmanmodel).  
+Let’s explore emotional recursion together.
