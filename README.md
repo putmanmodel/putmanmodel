@@ -7,7 +7,7 @@ The **PUTMAN Model™** is an evolving symbolic cognition system that endows dig
 
 ---
 
-## ⚙️ L.L.O.Y.D. – *Layered Logic Over Yielded Data*  
+## ⚙️ L.L.O.Y.D. – *Language Layers Over Your Data*  
 A deviation engine that tracks how meaning shifts across utterances and how emotional memory responds. Originally a CLI experiment, it now simulates symbolic drift and internal contradiction — behaving almost like a psyche under pressure.
 
 ## 🌐 Spanda Engine  
