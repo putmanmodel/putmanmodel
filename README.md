@@ -28,25 +28,29 @@ A third system in the works — designed to bridge the gap between symbolic AI l
 
 ---
 
-## 🎭 Emotional Field Demos (Live in Spanda)
+## 🔗 Resources & Links
 
-- 🌿 **Trust Decay – Elder Oak**  
-  *Fading rapport over time; when trust dips, Oak becomes guarded.*
-
-- ⚖️ **Fear vs. Confidence – Mira & Thorne**  
-  *Competing tone fields shape leadership, protection, or collapse.*
-
-- 🎮 **Joy Through Play – Lyra & Cassian**  
-  *Shared joy resonates; missed cues create subtle emotional drift.*
+- 🚀 YouTube *(channel coming soon)* — [@putmanmodel](https://www.youtube.com/@putmanmodel)  
+- 🐦 Twitter (project) — [@putmanmodel](https://twitter.com/putmanmodel)  
+- 🧠 LinkedIn — [Stephen A. Putman](https://www.linkedin.com/in/stephen-a-putman-0ba70a36b)  
+- 💬 Reddit — u/putmanmodel  
+- 🧵 Twitter (personal) — [@superputman](https://twitter.com/superputman)  
 
 ---
 
-## 🔗 Resources & Links
+### 📄 DOI Citations (Zenodo)
 
-- 📄 Zenodo DOI: RFM Phase 1  
-- 🚀 L.L.O.Y.D. public release *(coming soon)*  
-- 🐦 Twitter: [@putmanmodel](https://twitter.com/putmanmodel)  
-- 💬 Reddit: u/putmanmodel discussions  
+- **L.L.O.Y.D.**  
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16746223.svg)](https://doi.org/10.5281/zenodo.16746223)
+
+- **Spanda** *(Emotional Reverb Demo)*  
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15860549.svg)](https://doi.org/10.5281/zenodo.15860549)
+
+- **Resonant Field Mapping**  
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15701019.svg)](https://doi.org/10.5281/zenodo.15701019)
+
+- **PUTMAN Model** *(Core framework)*  
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15636418.svg)](https://doi.org/10.5281/zenodo.15636418)
 
 ## 🧠 Theory & Writing
 
