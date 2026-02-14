@@ -1,73 +1,117 @@
-# PUTMAN Model™  
-**Symbolic Framework for Emotional Recursion in Games, Narrative, and AI**
+# PUTMAN Model™
+
+**Architectural Framework for Runtime Governance, Emotional Field Modeling, and Symbolic Drift Analysis**
+
+The PUTMAN Model™ is an evolving systems architecture for modeling tone dynamics, memory constraints, capability control, and recursive symbolic behavior across AI agents and simulated environments.
+
+Rather than simulate “emotion,” the framework formalizes layered control structures for modulation, persistence, and authority under uncertainty.
+
+The ecosystem currently includes four primary components:
 
 ---
 
-The **PUTMAN Model™** is an evolving symbolic cognition system that endows digital agents with emotional memory, recursive tone awareness, and subjective resonance. I have a passion for bridging the gap between digital models and biological experience. Built as a modular toolkit, it currently includes two flagship engines — each tackling a different facet of meaning drift, field dynamics, and identity formation:
+## 📄 Resonant Field Mapping (RFM)
+
+A runtime governance architecture for large language models.
+
+RFM separates:
+- tone modulation  
+- memory persistence  
+- capability authority  
+- divergence stabilization  
+
+Core features include:
+- Goal-Guarded Memory (GGM)
+- Deny-by-default capability leases
+- Deterministic re-entry
+- SDB-1 divergence-triggered reversible degradation
+
+📄 Formal paper:  
+**Resonant Field Mapping: A Governed Non-Mimetic Empathy Layer for Language Models**
 
 ---
 
-## ⚙️ L.L.O.Y.D. – *Language Layers Over Your Data*  
-A deviation engine that tracks how meaning shifts across utterances and how emotional memory responds. Originally a CLI experiment, it now simulates symbolic drift and internal contradiction — behaving almost like a psyche under pressure.
+## ⚙️ L.L.O.Y.D.  
+**Language Layers Over Your Data**
 
-## 🌐 Spanda Engine  
-A real-time emotional physics engine driven by proximity-based resonance and tone decay. Spanda simulates cascading affect, field memory, and symbolic contagion across swarms of agents or NPCs.
+A deviation engine for tracking symbolic drift and internal contradiction across multi-turn text streams.
 
-## 🚪 Doorknob *(in development)*  
-A third system in the works — designed to bridge the gap between symbolic AI logic and lived human experience. Doorknob will explore resonance translation across digital and narrative layers, allowing for deeper psychological modeling and symbolic anchoring.
+LLOYD analyzes:
+- tone/content mismatch
+- escalation patterns
+- recursive contradiction
+- emotional polarity drift
 
----
-
-## 🔧 Key Use Cases
-
-- Narrative Games & RPGs  
-- NPC Behavior & Emotional Field Modeling  
-- LLM-Powered Agents with Recursive Self-Awareness  
-- Simulated Societies & Belief Drift Experiments  
-- Therapy, Education, & Emotional Analytics Tools  
+Originally a CLI prototype, it explores structural instability in language systems under pressure.
 
 ---
 
-## 🔗 Resources & Links
+## 🌐 Spanda Engine
 
-- 🚀 YouTube *(channel coming soon)* — [@putmanmodel](https://www.youtube.com/@putmanmodel)  
-- 🐦 Twitter (project) — [@putmanmodel](https://twitter.com/putmanmodel)  
-- 🧠 LinkedIn — [Stephen A. Putman](https://www.linkedin.com/in/stephen-a-putman-0ba70a36b)  
-- 💬 Reddit — u/putmanmodel  
-- 🧵 Twitter (personal) — [@superputman](https://twitter.com/superputman)  
+A real-time emotional field simulation engine.
 
----
+Spanda models:
+- proximity-based resonance
+- tone propagation
+- decay and recovery
+- crowd instability dynamics
+- reference shifts (ME ↔ US)
 
-### 📄 DOI Citations (Zenodo)
-
-- **L.L.O.Y.D.**  
-  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16746223.svg)](https://doi.org/10.5281/zenodo.16746223)
-
-- **Spanda** *(Emotional Reverb Demo)*  
-  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15860549.svg)](https://doi.org/10.5281/zenodo.15860549)
-
-- **Resonant Field Mapping**  
-  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15701019.svg)](https://doi.org/10.5281/zenodo.15701019)
-
-- **PUTMAN Model** *(Core framework)*  
-  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15636418.svg)](https://doi.org/10.5281/zenodo.15636418)
-
-## 🧠 Theory & Writing
-
-- [Waste Theory: Symbolic Residue, Dream Logic, and the Loops That Haunt Us](https://medium.com/@sputman_15341/waste-theory-symbolic-residue-dream-logic-and-the-loops-that-haunt-us-ce59f9f52deb)
-- [Resonant Field Mapping: Giving Digital Worlds a Soul](https://medium.com/@sputman_15341/resonant-field-mapping-giving-digital-worlds-a-soul-d9cec3652175)
+Designed for:
+- NPC simulations
+- emergent social behavior
+- resonance cascades
+- agent-based modeling
 
 ---
 
-## 📜 License
+## 🧩 KingPin (Toy Governance Model)
 
-Shared under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**  
-All symbolic system names (PUTMAN Model™, Spanda™, L.L.O.Y.D.™, Doorknob™, etc.) are protected by timestamped public use.
+A CLI governance prototype focused on constrained authority and reconvergence rules.
+
+KingPin demonstrates:
+- scoped capability leases
+- deny-by-default enforcement
+- nonce-based revocation
+- reconvergence after disagreement
+
+It serves as a simplified control-plane demonstrator aligned with RFM’s governance layer.
 
 ---
 
-## 🤝 Get Involved
+# 🔧 Application Domains
 
-Interested in testing, forking, or discussing strange symbolic feedback loops?  
-Open an issue on GitHub or DM [@putmanmodel](https://twitter.com/putmanmodel).  
-Let’s explore emotional recursion together.
+- Runtime LLM governance
+- Capability control architectures
+- NPC emotional modeling
+- Symbolic drift detection
+- Multi-agent escalation monitoring
+- Simulation of bounded adaptation systems
+
+---
+
+## 📄 Publications
+
+- **Resonant Field Mapping (RFM)**  
+  https://doi.org/10.5281/zenodo.18637406
+
+- **PUTMAN Model (Core Framework)**  
+  https://doi.org/10.5281/zenodo.15636418
+
+(Additional preprints and demonstrators available in respective repositories.)
+
+---
+
+# 📜 License
+
+Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)
+
+All symbolic system names (PUTMAN Model™, Spanda™, L.L.O.Y.D.™, KingPin™, etc.) are documented via timestamped public use.
+
+---
+
+# 🤝 Contact
+
+Stephen A. Putman  
+LinkedIn: Stephen A. Putman  
+GitHub / X / Reddit: @putmanmodel
