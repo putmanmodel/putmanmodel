@@ -10,6 +10,11 @@ The ecosystem currently includes four primary components:
 
 ---
 
+## Start here (latest papers)
+- **PUTMAN Model — Core Architecture for Contextual Meaning Reconstruction**: <https://doi.org/10.5281/zenodo.15634339>
+- **Resonant Field Mapping: A Non-Mimetic Empathy Layer for Language Models**: <https://doi.org/10.5281/zenodo.15701018>
+---
+
 ## 📄 Resonant Field Mapping (RFM)
 
 A runtime governance architecture for large language models.
@@ -93,7 +98,7 @@ It serves as a simplified control-plane demonstrator aligned with RFM’s govern
 ## 📄 Publications
 
 - **Resonant Field Mapping (RFM)**  
-  https://doi.org/10.5281/zenodo.18637406
+  [https://doi.org/10.5281/zenodo.18637406](https://doi.org/10.5281/zenodo.15701018)
 
 - **PUTMAN Model (Core Framework)**  
   https://doi.org/10.5281/zenodo.15636418
