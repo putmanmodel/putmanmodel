@@ -6,24 +6,22 @@ The PUTMAN Model™ is an evolving systems architecture for modeling tone dynami
 
 Rather than simulate “emotion,” the framework formalizes layered control structures for modulation, persistence, and authority under uncertainty.
 
-## Read first (latest papers)
+### Read first (latest papers)
 - **PUTMAN Model — Core Architecture for Contextual Meaning Reconstruction**: <https://doi.org/10.5281/zenodo.15634339>
 - **Resonant Field Mapping: A Non-Mimetic Empathy Layer for Language Models**: <https://doi.org/10.5281/zenodo.15701018>
 
 
 ## Ecosystem components
-The ecosystem currently includes four primary components:
-
+Four primary components:
 
 ### 📄 Resonant Field Mapping (RFM)
-
-A governance module for tone, memory, and capability control in LLM deployments.
+A governance layer for runtime control of language-model behavior.
 
 RFM separates:
-- tone modulation  
-- memory persistence  
-- capability authority  
-- divergence stabilization  
+- tone modulation
+- memory persistence
+- capability authority
+- divergence stabilization
 
 Core features include:
 - Goal-Guarded Memory (GGM)
@@ -31,9 +29,7 @@ Core features include:
 - Deterministic re-entry
 - SDB-1 divergence-triggered reversible degradation
 
----
-
-### ⚙️ L.L.O.Y.D.  
+### ⚙️ L.L.O.Y.D.
 **Language Layers Over Your Data**
 
 A deviation engine for tracking symbolic drift and internal contradiction across multi-turn text streams.
@@ -44,12 +40,7 @@ LLOYD analyzes:
 - recursive contradiction
 - emotional polarity drift
 
-Originally a CLI prototype, it explores structural instability in language systems under pressure.
-
----
-
 ### 🌐 Spanda Engine
-
 A real-time emotional field simulation engine.
 
 Spanda models:
@@ -59,16 +50,7 @@ Spanda models:
 - crowd instability dynamics
 - reference shifts (ME ↔ US)
 
-Designed for:
-- NPC simulations
-- emergent social behavior
-- resonance cascades
-- agent-based modeling
-
----
-
 ### 🧩 KingPin (Toy Governance Model)
-
 A CLI governance prototype focused on constrained authority and reconvergence rules.
 
 KingPin demonstrates:
@@ -81,7 +63,7 @@ It serves as a simplified control-plane demonstrator aligned with RFM’s govern
 
 ---
 
-# 🔧 Application Domains
+### 🔧 Application Domains
 
 - Runtime LLM governance
 - Capability control architectures
