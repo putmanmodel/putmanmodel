@@ -31,9 +31,6 @@ Core features include:
 - Deterministic re-entry
 - SDB-1 divergence-triggered reversible degradation
 
-📄 Formal paper:  
-**Resonant Field Mapping: A Governed Non-Mimetic Empathy Layer for Language Models**
-
 ---
 
 ## ⚙️ L.L.O.Y.D.  
@@ -98,10 +95,10 @@ It serves as a simplified control-plane demonstrator aligned with RFM’s govern
 ## 📄 Publications
 
 - **Resonant Field Mapping (RFM)**  
-  [https://doi.org/10.5281/zenodo.18637406](https://doi.org/10.5281/zenodo.15701018)
+  https://doi.org/10.5281/zenodo.15701018
 
 - **PUTMAN Model (Core Framework)**  
-  https://doi.org/10.5281/zenodo.15636418
+  https://doi.org/10.5281/zenodo.15634339
 
 (Additional preprints and demonstrators available in respective repositories.)
 
