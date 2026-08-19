@@ -8,7 +8,25 @@ It is centered on a simple idea: interesting behavior should emerge from bounded
 
 This work spans memory stratification, runtime governance, deviation tracking, narrative coupling, semantic reuse, multi-agent field behavior, and weak-signal interpretation. Together, these papers and demos form a stack for building systems that are more inspectable, more bounded, and more capable of meaningful behavior inside constrained worlds.
 
-## Read First
+## Featured Project
+
+### Spanda — Social Behavior Demo
+
+A Unity demonstration of a deterministic behavioral control layer for NPCs.
+
+Spanda explores how agents can respond to changing relational state rather than fixed proximity rules. The browser demo keeps scene geometry constant while changing internal conditions, showing:
+
+- identical proximity producing different spacing behavior
+- the same behavioral policy scaling from two agents to five
+- deterministic and inspectable responses based on explicit inputs
+
+Interactive demo:  
+https://putmanmodel.itch.io/spanda-social-behavior-demo
+
+Architecture notes:  
+https://github.com/putmanmodel/spanda-architectural-framework
+
+## Read First / Core Papers
 
 - **PUTMAN Model — Core Architecture for Contextual Meaning Reconstruction**  
   https://doi.org/10.5281/zenodo.15634339
@@ -19,7 +37,6 @@ This work spans memory stratification, runtime governance, deviation tracking, n
 - **Spanda Architectural Framework**  
   Papers, companion notes, bridge papers, and demos for the broader stack:  
   https://github.com/putmanmodel/spanda-architectural-framework
-
 ## What This Work Is For
 
 This is builder-facing work.
