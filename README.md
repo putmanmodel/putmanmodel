@@ -26,6 +26,29 @@ https://putmanmodel.itch.io/spanda-social-behavior-demo
 Architecture notes:  
 https://github.com/putmanmodel/spanda-architectural-framework
 
+## Recent Runtime Governance Work
+
+Recent development has moved part of the PUTMAN Model architecture into executable runtime-governance tooling.
+
+### CDE / Kingpin
+
+**CDE / Kingpin** separates behavioral deviation detection from runtime authority.
+
+The Constraint Deviation Engine (CDE) identifies deviation, mismatch and escalation without granting authority. Kingpin consumes that signal alongside trusted policy, evidence, leases, review state and other runtime constraints to determine what an agent is actually allowed to do. A gateway then mechanically enforces that decision.
+
+Current work includes a controlled evaluator with durable authority state, revocation, scoped leases, one-use human review, execution accounting, reconciliation for uncertain outcomes and adversarial/conformance testing.
+
+Repository:  
+https://github.com/putmanmodel/agent-tool-governance-gateway
+
+### Agent Governance Test Harness
+
+A separate **Agent Governance Test Harness** is being developed to pressure-test governance runtimes across difficult state transitions rather than simply checking whether an initial decision was correct.
+
+Current scenarios exercise areas such as revocation, retry after revocation, approval replay, delegated handoff, uncertain execution state and in-flight execution behavior.
+
+The harness is intended to remain governance-system neutral: CDE / Kingpin is one runtime under test, not logic embedded into the harness itself.
+
 ## Read First / Core Papers
 
 - **PUTMAN Model — Core Architecture for Contextual Meaning Reconstruction**  
