@@ -49,6 +49,9 @@ Current scenarios exercise areas such as revocation, retry after revocation, app
 
 The harness is intended to remain governance-system neutral: CDE / Kingpin is one runtime under test, not logic embedded into the harness itself.
 
+Repository:  
+https://github.com/putmanmodel/agent-governance-test-harness
+
 ## Read First / Core Papers
 
 - **PUTMAN Model — Core Architecture for Contextual Meaning Reconstruction**  
