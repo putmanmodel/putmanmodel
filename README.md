@@ -10,20 +10,32 @@ This work spans memory stratification, runtime governance, deviation tracking, n
 
 ## Featured Project
 
-### Spanda — Social Behavior Demo
+### Spanda — Adaptive NPC Behavior & Governed Learning
 
-A Unity demonstration of a deterministic behavioral control layer for NPCs.
+Spanda is a Unity-based NPC behavior system exploring how autonomous agents can develop context-sensitive relationships and adapt their behavior over time.
 
-Spanda explores how agents can respond to changing relational state rather than fixed proximity rules. The browser demo keeps scene geometry constant while changing internal conditions, showing:
+The currently available interactive demo focuses on Spanda's deterministic behavioral control layer. It keeps scene geometry constant while changing internal relational conditions, demonstrating:
 
-- identical proximity producing different spacing behavior
-- the same behavioral policy scaling from two agents to five
-- deterministic and inspectable responses based on explicit inputs
+- **Identical proximity producing different spacing behavior**
+- **The same behavioral policy scaling from two agents to five**
+- **Deterministic, inspectable responses based on explicit inputs**
 
-Interactive demo:  
+**Interactive Demo:**  
 https://putmanmodel.itch.io/spanda-social-behavior-demo
 
-Architecture notes:  
+### Coming Soon — Expanded Technical Demonstration
+
+A more comprehensive video demonstration is currently in production, showcasing Spanda's evolving architecture and additional capabilities, including:
+
+- **Context-sensitive interpretation:** NPCs interpret experiences using their individual relational histories and locally available information.
+- **Local AI integration:** Language models can assist interpretation without directly controlling character behavior.
+- **Governed consequences:** Interpretations, relationship changes, and behavioral responses remain subject to explicit authorization.
+- **Adaptive learning:** Recurring experiences can support learned, deterministic interpretations, reducing reliance on repeated model inference.
+- **Continued refinement:** Learned behavior can be evaluated and constrained as new evidence becomes available.
+
+The demonstration will show these capabilities operating together in Unity, including visible NPC interactions and the separation between model interpretation and authorized behavior.
+
+**Architecture Notes:**  
 https://github.com/putmanmodel/spanda-architectural-framework
 
 ## Recent Runtime Governance Work
