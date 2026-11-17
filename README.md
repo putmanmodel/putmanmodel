@@ -2,67 +2,31 @@
 
 Architectural framework for constrained agency, runtime governance, symbolic drift analysis, and structured emergence.
 
+## SPANDA — Contextual NPC Behavior
+
+Spanda explores how NPCs in Unity interpret the same event differently based on their relationship history. The technical preview shows how an interpretation can lead to a governed response and how an approved learning rule can be reused under specific conditions.
+
+- **Watch** the [published technical preview](https://github.com/putmanmodel/spanda-technical-preview) and its [video walkthrough](https://youtu.be/yZFEq3CHnKY).
+- **Play** the [earlier browser demonstration](https://putmanmodel.itch.io/spanda-social-behavior-demo) to see how relational conditions change NPC spacing in a fixed scene.
+- **Inspect the evidence** in the [claims and limitations](https://github.com/putmanmodel/spanda-technical-preview/blob/main/docs/claims-audit.md), [architecture papers](https://github.com/putmanmodel/spanda-architectural-framework) and [normative harness with paired proof and break fixtures](https://github.com/putmanmodel/spanda-normative-harness).
+
+## KINGPIN — Governed AI Tool Execution
+
+CDE detects deviation, Kingpin decides whether an operation is authorized, and the gateway enforces that decision. The local MCP developer preview shows both a permitted fixture read and a refusal when a lease is required.
+
+- **Run** the [local MCP developer preview](https://github.com/putmanmodel/kingpin-governed-mcp#run-locally), or **try** the [browser demonstration](https://putmanmodel.github.io/kingpin-weak-signal-demo/) to explore how attention and authority change during a scenario.
+- **Inspect the runtime** in the [gateway architecture and limited SDK](https://github.com/putmanmodel/agent-tool-governance-gateway).
+- **Evaluate the evidence** with the [Agent Governance Test Harness](https://github.com/putmanmodel/agent-governance-test-harness), a separate evaluator for authority transitions such as revocation and retry. Its documentation distinguishes recorded assessments, synthetic controls and live qualifications for specific integrations.
+
+**Spanda and Kingpin licensing, integration and research inquiries** — [putmanmodel@pm.me](mailto:putmanmodel@pm.me).
+
+## About the architecture
+
 The PUTMAN Model™ is an evolving architecture for building agents and simulations that remain legible under pressure.
 
 It is centered on a simple idea: interesting behavior should emerge from bounded local functions, not from unconstrained generation or hidden-state wishful thinking. The goal is not to fake emotion or hand-wave “intelligence,” but to define the conditions under which agents can accumulate state, adapt, drift, recover, and act under explicit limits.
 
 This work spans memory stratification, runtime governance, deviation tracking, narrative coupling, semantic reuse, multi-agent field behavior, and weak-signal interpretation. Together, these papers and demos form a stack for building systems that are more inspectable, more bounded, and more capable of meaningful behavior inside constrained worlds.
-
-## Featured Project
-
-### Spanda — Adaptive NPC Behavior & Governed Learning
-
-Spanda is a Unity-based NPC behavior system exploring how autonomous agents can develop context-sensitive relationships and adapt their behavior over time.
-
-The currently available interactive demo focuses on Spanda's deterministic behavioral control layer. It keeps scene geometry constant while changing internal relational conditions, demonstrating:
-
-- **Identical proximity producing different spacing behavior**
-- **The same behavioral policy scaling from two agents to five**
-- **Deterministic, inspectable responses based on explicit inputs**
-
-**Interactive Demo:**  
-https://putmanmodel.itch.io/spanda-social-behavior-demo
-
-### Coming Soon — Expanded Technical Demonstration
-
-A more comprehensive video demonstration is currently in production, showcasing Spanda's evolving architecture and additional capabilities, including:
-
-- **Context-sensitive interpretation:** NPCs interpret experiences using their individual relational histories and locally available information.
-- **Local AI integration:** Language models can assist interpretation without directly controlling character behavior.
-- **Governed consequences:** Interpretations, relationship changes, and behavioral responses remain subject to explicit authorization.
-- **Adaptive learning:** Recurring experiences can support learned, deterministic interpretations, reducing reliance on repeated model inference.
-- **Continued refinement:** Learned behavior can be evaluated and constrained as new evidence becomes available.
-
-The demonstration will show these capabilities operating together in Unity, including visible NPC interactions and the separation between model interpretation and authorized behavior.
-
-**Architecture Notes:**  
-https://github.com/putmanmodel/spanda-architectural-framework
-
-## Recent Runtime Governance Work
-
-Recent development has moved part of the PUTMAN Model architecture into executable runtime-governance tooling.
-
-### CDE / Kingpin
-
-**CDE / Kingpin** separates behavioral deviation detection from runtime authority.
-
-The Constraint Deviation Engine (CDE) identifies deviation, mismatch and escalation without granting authority. Kingpin consumes that signal alongside trusted policy, evidence, leases, review state and other runtime constraints to determine what an agent is actually allowed to do. A gateway then mechanically enforces that decision.
-
-Current work includes a controlled evaluator with durable authority state, revocation, scoped leases, one-use human review, execution accounting, reconciliation for uncertain outcomes and adversarial/conformance testing.
-
-Repository:  
-https://github.com/putmanmodel/agent-tool-governance-gateway
-
-### Agent Governance Test Harness
-
-A separate **Agent Governance Test Harness** is being developed to pressure-test governance runtimes across difficult state transitions rather than simply checking whether an initial decision was correct.
-
-Current scenarios exercise areas such as revocation, retry after revocation, approval replay, delegated handoff, uncertain execution state and in-flight execution behavior.
-
-The harness is intended to remain governance-system neutral: CDE / Kingpin is one runtime under test, not logic embedded into the harness itself.
-
-Repository:  
-https://github.com/putmanmodel/agent-governance-test-harness
 
 ## Read First / Core Papers
 
@@ -211,10 +175,7 @@ I am not presenting this as a polished corporate lab. I am trying to build somet
 
 ## License
 
-**CC BY-NC 4.0**  
-Creative Commons Attribution–NonCommercial 4.0 International
-
-All symbolic system names and project naming conventions are documented through timestamped public use.
+See the [profile repository LICENSE](LICENSE) for its noncommercial sharing and adaptation terms, attribution requirements and commercial permission contact. Each linked project has its own terms.
 
 ## Contact
 
